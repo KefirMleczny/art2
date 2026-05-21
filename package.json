@@ -1,0 +1,19 @@
+{
+  "name": "artpuff",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm run optimize:images && node scripts/build.mjs",
+    "optimize:images": "node scripts/optimize-images.mjs"
+  },
+  "dependencies": {
+    "nodemailer": "^8.0.7",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "serve": "^14.2.6"
+  },
+  "devDependencies": {
+    "esbuild": "0.24.2",
+    "sharp": "0.32.6"
+  }
+}

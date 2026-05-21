@@ -211,12 +211,6 @@ function Portfolio() {
             );
           })}
         </div>
-
-        <div style={{ marginTop: 48, textAlign: 'center' }} className="reveal">
-          <p style={{ color: 'var(--ink-mute)', fontSize: 13, marginBottom: 16 }}>
-            Karty zostawione jako placeholdery. Podmień obrazy w katalogu <code style={{ background: 'rgba(255,255,255,0.06)', padding: '2px 8px', borderRadius: 6 }}>public/portfolio/</code>.
-          </p>
-        </div>
       </div>
     </section>
   );

@@ -153,7 +153,7 @@ function Portfolio() {
             </h2>
           </div>
           <p className="lead reveal" style={{ transitionDelay: '120ms', maxWidth: 360 }}>
-            Mix realnych projektów oraz placeholderów. Twoje miejsce, by pokazać prawdziwe prace, gdy będą gotowe.
+            Mix naszych gotowych realizacji i projektów poglądowych.
           </p>
         </div>
 
